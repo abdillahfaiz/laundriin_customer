@@ -1,0 +1,11 @@
+﻿Analyzing order_setup_page.dart...
+
+  error - order_setup_page.dart:1382:32 - The argument type 'String?' can't be assigned to the parameter type 'String'.  - argument_type_not_assignable
+  error - order_setup_page.dart:1520:47 - The argument type 'String?' can't be assigned to the parameter type 'String'.  - argument_type_not_assignable
+   info - order_setup_page.dart:311:29 - Statements in an if should be enclosed in a block. Try wrapping the statement in a block. - curly_braces_in_flow_control_structures
+   info - order_setup_page.dart:326:29 - Statements in an if should be enclosed in a block. Try wrapping the statement in a block. - curly_braces_in_flow_control_structures
+   info - order_setup_page.dart:857:56 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - order_setup_page.dart:1074:46 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - order_setup_page.dart:1268:33 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+
+7 issues found.
